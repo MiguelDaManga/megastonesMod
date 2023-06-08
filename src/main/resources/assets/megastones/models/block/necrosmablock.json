@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "megastones:blocks/necrozmablock",
+    "up": "megastones:blocks/necrozmablock",
+    "north": "megastones:blocks/necrozmablock",
+    "east": "megastones:blocks/necrozmablock",
+    "south": "megastones:blocks/necrozmablock",
+    "west": "megastones:blocks/necrozmablock",
+    "particle": "megastones:blocks/necrozmablock"
+  }
+}

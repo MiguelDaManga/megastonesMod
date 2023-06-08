@@ -1,0 +1,11 @@
+{
+  "parent": "megastones:custom/clonechamber2",
+  "textures": {
+    "all": "megastones:blocks/clonermachine",
+    "particle": "megastones:blocks/clonermachine",
+    "1": "megastones:blocks/mewfechado",
+    "2": "megastones:blocks/clonechamber_emptyvidroo",
+    "3": "megastones:blocks/clonechamber_empty_2",
+    "missing": "megastones:blocks/cloningmachinebotton"
+  }
+}

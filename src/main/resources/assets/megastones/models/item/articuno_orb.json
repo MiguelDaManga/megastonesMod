@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "megastones:items/orb_of_frozen_souls"
+  }
+}

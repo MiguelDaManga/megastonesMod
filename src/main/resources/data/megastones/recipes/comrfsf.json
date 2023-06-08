@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "megastones:compressed_block_of_iron"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_block",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "megastones:necrosmablock"
+    }
+  ],
+  "result": {
+    "item": "megastones:necrosmashard",
+    "count": 9
+  }
+}

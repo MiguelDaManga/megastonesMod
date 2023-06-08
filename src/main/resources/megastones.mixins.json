@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mcreator.megastones.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+	"MegastonesModRepairItemRecipeMixin"  ],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}

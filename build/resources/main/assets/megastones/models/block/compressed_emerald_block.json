@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "megastones:blocks/emerald_block",
+    "up": "megastones:blocks/emerald_block",
+    "north": "megastones:blocks/emerald_block",
+    "east": "megastones:blocks/emerald_block",
+    "south": "megastones:blocks/emerald_block",
+    "west": "megastones:blocks/emerald_block",
+    "particle": "megastones:blocks/emerald_block"
+  }
+}

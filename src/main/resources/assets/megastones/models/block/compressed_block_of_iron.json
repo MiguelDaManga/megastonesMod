@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "megastones:blocks/w",
+    "up": "megastones:blocks/w",
+    "north": "megastones:blocks/w",
+    "east": "megastones:blocks/w",
+    "south": "megastones:blocks/w",
+    "west": "megastones:blocks/w",
+    "particle": "megastones:blocks/w"
+  }
+}

@@ -1,0 +1,858 @@
+{
+  "mod_elements": [
+    {
+      "name": "CharizardX",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "charizard_x",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/charizard_x.json",
+          "src/main/java/net/mcreator/megastones/item/CharizardXItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CharizardY",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "charizard_y",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/charizard_y.json",
+          "src/main/java/net/mcreator/megastones/item/CharizardYItem.java"
+        ]
+      }
+    },
+    {
+      "name": "AshGreninja",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ash_greninja",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/ash_greninja.json",
+          "src/main/java/net/mcreator/megastones/item/AshGreninjaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Megastones",
+      "type": "tab",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "megastones",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "OmegaRuby",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omega_ruby",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/omega_ruby.json",
+          "src/main/java/net/mcreator/megastones/item/OmegaRubyItem.java"
+        ]
+      }
+    },
+    {
+      "name": "AlphaSapphire",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alpha_sapphire",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/alpha_sapphire.json",
+          "src/main/java/net/mcreator/megastones/item/AlphaSapphireItem.java"
+        ]
+      }
+    },
+    {
+      "name": "OrbWithoutMegaEvolution",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orb_without_mega_evolution",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/item/OrbWithoutMegaEvolutionItem.java",
+          "src/main/resources/assets/megastones/models/item/orb_without_mega_evolution.json"
+        ]
+      }
+    },
+    {
+      "name": "CharizardXRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "charizard_x_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/charizard_x_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CharizardYRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "charizard_y_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/charizard_y_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AshGreninjaRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "ash_greninja_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/ash_greninja_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "OmegaRubyRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omega_ruby_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/omega_ruby_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "OmegaRubyRecipevdd",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "omega_ruby_recipevdd",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/omega_ruby_recipevdd.json"
+        ]
+      }
+    },
+    {
+      "name": "MewTail",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mew_tail",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/item/MewTailItem.java",
+          "src/main/resources/assets/megastones/models/item/mew_tail.json"
+        ]
+      }
+    },
+    {
+      "name": "ZygardeCell",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zygarde_cell",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/item/ZygardeCellItem.java",
+          "src/main/resources/assets/megastones/models/item/zygarde_cell.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipegardecell",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipegardecell",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/recipegardecell.json"
+        ]
+      }
+    },
+    {
+      "name": "CompressedEmeraldBlock",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_emerald_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/block/CompressedEmeraldBlockBlock.java",
+          "src/main/resources/assets/megastones/blockstates/compressed_emerald_block.json",
+          "src/main/resources/assets/megastones/models/item/compressed_emerald_block.json",
+          "src/main/resources/assets/megastones/models/block/compressed_emerald_block.json"
+        ]
+      }
+    },
+    {
+      "name": "Compr",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/compr.json"
+        ]
+      }
+    },
+    {
+      "name": "Reveert",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reveert",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/reveert.json"
+        ]
+      }
+    },
+    {
+      "name": "UltracompressedEmerald",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultracompressed_emerald",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/ultracompressed_emerald.json",
+          "src/main/java/net/mcreator/megastones/item/UltracompressedEmeraldItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Queimanaforn",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "queimanaforn",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/queimanaforn.json"
+        ]
+      }
+    },
+    {
+      "name": "CompressedBlockOfIron",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_block_of_iron",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/block/CompressedBlockOfIronBlock.java",
+          "src/main/resources/assets/megastones/models/block/compressed_block_of_iron.json",
+          "src/main/resources/assets/megastones/models/item/compressed_block_of_iron.json",
+          "src/main/resources/assets/megastones/blockstates/compressed_block_of_iron.json"
+        ]
+      }
+    },
+    {
+      "name": "Comrfsf",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "comrfsf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/comrfsf.json"
+        ]
+      }
+    },
+    {
+      "name": "REcdd",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_ecdd",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/r_ecdd.json"
+        ]
+      }
+    },
+    {
+      "name": "Orbrecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orbrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/orbrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Necrosmashard",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "necrosmashard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/necrosmashard.json",
+          "src/main/java/net/mcreator/megastones/item/NecrosmashardItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Necrosmablock",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "necrosmablock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/block/necrosmablock.json",
+          "src/main/java/net/mcreator/megastones/block/NecrosmablockBlock.java",
+          "src/main/resources/assets/megastones/models/item/necrosmablock.json",
+          "src/main/resources/assets/megastones/blockstates/necrosmablock.json"
+        ]
+      }
+    },
+    {
+      "name": "Necrosma",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "necrosma",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/necrosma.json"
+        ]
+      }
+    },
+    {
+      "name": "Necr",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "necr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/necr.json"
+        ]
+      }
+    },
+    {
+      "name": "Necrozma",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "necrozma",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/necrozma.json"
+        ]
+      }
+    },
+    {
+      "name": "MoltresOrb",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moltres_orb",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/item/MoltresOrbItem.java",
+          "src/main/resources/assets/megastones/models/item/moltres_orb.json"
+        ]
+      }
+    },
+    {
+      "name": "ArticunoOrb",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "articuno_orb",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/item/ArticunoOrbItem.java",
+          "src/main/resources/assets/megastones/models/item/articuno_orb.json"
+        ]
+      }
+    },
+    {
+      "name": "ZapdosOrb",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zapdos_orb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/zapdos_orb.json",
+          "src/main/java/net/mcreator/megastones/item/ZapdosOrbItem.java"
+        ]
+      }
+    },
+    {
+      "name": "EmptyOrb",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "empty_orb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/empty_orb.json",
+          "src/main/java/net/mcreator/megastones/item/EmptyOrbItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Emptyorbe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emptyorbe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/emptyorbe.json"
+        ]
+      }
+    },
+    {
+      "name": "Zapdosorbrecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zapdosorbrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/zapdosorbrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "ShadowEssence",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shadow_essence",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/item/ShadowEssenceItem.java",
+          "src/main/resources/assets/megastones/models/item/shadow_essence.json"
+        ]
+      }
+    },
+    {
+      "name": "Moltresorbrecipew",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moltresorbrecipew",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/moltresorbrecipew.json"
+        ]
+      }
+    },
+    {
+      "name": "Articunorecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "articunorecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/articunorecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "MarshadowscarfbodyBodyTickEvent",
+      "type": "procedure",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marshadowscarfbody_body_tick_event",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/procedures/MarshadowscarfbodyBodyTickEventProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MarshadowArmor",
+      "type": "armor",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marshadow_armor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/item/MarshadowArmorItem.java",
+          "src/main/resources/assets/megastones/models/item/marshadow_armor_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "CompressedGoldBlock",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_gold_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/blockstates/compressed_gold_block.json",
+          "src/main/resources/assets/megastones/models/item/compressed_gold_block.json",
+          "src/main/resources/assets/megastones/models/block/compressed_gold_block.json",
+          "src/main/java/net/mcreator/megastones/block/CompressedGoldBlockBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Blbld",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blbld",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/blbld.json"
+        ]
+      }
+    },
+    {
+      "name": "Fgf",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fgf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/fgf.json"
+        ]
+      }
+    },
+    {
+      "name": "GenieLamp",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "genie_lamp",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/genie_lamp.json",
+          "src/main/java/net/mcreator/megastones/item/GenieLampItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Genie",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "genie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/genie.json"
+        ]
+      }
+    },
+    {
+      "name": "CloningMachine",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_cloning_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/block/reinforced_cloning_glass.json",
+          "src/main/java/net/mcreator/megastones/block/CloningMachineBlock.java",
+          "src/main/resources/assets/megastones/blockstates/reinforced_cloning_glass.json",
+          "src/main/resources/assets/megastones/models/item/reinforced_cloning_glass.json",
+          "src/main/java/net/mcreator/megastones/block/entity/CloningMachineBlockEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "GUI",
+      "type": "gui",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/world/inventory/GUIMenu.java",
+          "src/main/java/net/mcreator/megastones/client/gui/GUIScreen.java"
+        ]
+      }
+    },
+    {
+      "name": "Shadowrrecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shadowrrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/shadowrrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedCloningGlass",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cloning_machine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/block/cloning_machine.json",
+          "src/main/resources/assets/megastones/blockstates/cloning_machine.json",
+          "src/main/resources/assets/megastones/models/item/cloning_machine.json",
+          "src/main/java/net/mcreator/megastones/block/ReinforcedCloningGlassBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Cloningglassrecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cloningglassrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/cloningglassrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CloningmachineRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cloningmachine_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/cloningmachine_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "SHASOWCUBE",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shasowcube",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/shasowcube.json",
+          "src/main/java/net/mcreator/megastones/item/SHASOWCUBEItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Shadowwe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shadowwe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/shadowwe.json"
+        ]
+      }
+    },
+    {
+      "name": "Marrecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/megastones/recipes/marrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "MewTailp",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mew_tailp",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/megastones/models/item/mew_tailp.json",
+          "src/main/java/net/mcreator/megastones/item/MewTailpItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CloningMachineOnBlockRightClick",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cloning_machine_on_block_right_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/procedures/CloningMachineOnBlockRightClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloningMachineOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cloning_machine_on_block_right_clicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/megastones/procedures/CloningMachineOnBlockRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.megastones.reinforced_cloning_glass": "Reinforced Cloning Glass",
+      "item.megastones.zapdos_orb": "Zapdos Orb",
+      "item.megastones.orb_without_mega_evolution": "Empty Stone",
+      "item.megastones.omega_ruby": "Omega Ruby",
+      "item.megastones.marshadow_armor_boots": "Marshadow Boots",
+      "item.megastones.marshadow_armor_leggings": "Marshadow Leggings",
+      "block.megastones.necrosmablock": "Necrozma Block",
+      "item.megastones.zygarde_cell": "Zygarde Cell",
+      "item.megastones.ash_greninja": "Ash Greninja",
+      "item.megastones.alpha_sapphire": "Alpha Sapphire",
+      "item.megastones.ultracompressed_emerald": "Ultracompressed Emerald",
+      "item.megastones.charizard_x": "Charizard X",
+      "item.megastones.charizard_y": "Charizard Y",
+      "item.megastones.necrosmashard": "Necrozma shard",
+      "item.megastones.empty_orb": "Empty Orb",
+      "block.megastones.compressed_gold_block": "Compressed Gold Block",
+      "item.megastones.mew_tail": "Mew Tail",
+      "itemGroup.megastones.megastones": "Megastones",
+      "item.megastones.mew_tailp": "Mew Tail",
+      "block.megastones.compressed_emerald_block": "Compressed Emerald Block",
+      "item.megastones.moltres_orb": "Moltres Orb",
+      "item.megastones.articuno_orb": "Articuno Orb",
+      "item.megastones.shasowcube": "Shadow Ball",
+      "item.megastones.shadow_essence": "Shadow Essence",
+      "item.megastones.marshadow_armor_helmet": "Marshadow Helmet",
+      "item.megastones.genie_lamp": "Genie Lamp",
+      "item.megastones.marshadow_armor_chestplate": "Marshadow Scarf",
+      "block.megastones.cloning_machine": "Cloning Machine",
+      "block.megastones.compressed_block_of_iron": "Compressed Block Of Iron"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "megastones",
+    "modName": "megastones",
+    "version": "1.0.0",
+    "author": "USER, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.megastones",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

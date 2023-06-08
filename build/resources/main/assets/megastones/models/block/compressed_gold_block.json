@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "megastones:blocks/gold_block",
+    "up": "megastones:blocks/gold_block",
+    "north": "megastones:blocks/gold_block",
+    "east": "megastones:blocks/gold_block",
+    "south": "megastones:blocks/gold_block",
+    "west": "megastones:blocks/gold_block",
+    "particle": "megastones:blocks/gold_block"
+  }
+}

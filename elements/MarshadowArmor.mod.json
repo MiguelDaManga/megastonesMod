@@ -1,0 +1,71 @@
+{
+  "_fv": 39,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "marshadow_head",
+    "enableBody": true,
+    "textureBody": "marshadowscarf",
+    "enableLeggings": false,
+    "textureLeggings": "marshadow_leggings",
+    "enableBoots": false,
+    "textureBoots": "marshadow_boots",
+    "onBodyTick": {
+      "name": "MarshadowscarfbodyBodyTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Megastones"
+    },
+    "armorTextureFile": "iron_",
+    "helmetName": "Marshadow Helmet",
+    "bodyName": "Marshadow Scarf",
+    "leggingsName": "Marshadow Leggings",
+    "bootsName": "Marshadow Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [
+      "Glows in the shadows!!"
+    ],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 15,
+    "damageValueHelmet": 0,
+    "damageValueBody": 5,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": "entity.experience_orb.pickup"
+    },
+    "repairItems": []
+  }
+}

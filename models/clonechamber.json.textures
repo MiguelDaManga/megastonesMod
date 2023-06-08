@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "mew",
+        "2": "clonechamber_emptyvidroo",
+        "3": "clonechamber_empty_2",
+        "missing": "cloningmachinebotton"
+      },
+      "name": "default"
+    }
+  }
+}

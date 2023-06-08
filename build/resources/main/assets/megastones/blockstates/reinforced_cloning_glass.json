@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "megastones:block/reinforced_cloning_glass"
+    },
+    "facing=east": {
+      "model": "megastones:block/reinforced_cloning_glass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "megastones:block/reinforced_cloning_glass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "megastones:block/reinforced_cloning_glass",
+      "y": 270
+    }
+  }
+}

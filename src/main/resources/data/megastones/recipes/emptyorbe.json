@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "megastones:orb_without_mega_evolution"
+    },
+    "1": {
+      "item": "megastones:orb_without_mega_evolution"
+    },
+    "2": {
+      "item": "megastones:orb_without_mega_evolution"
+    },
+    "3": {
+      "item": "megastones:orb_without_mega_evolution"
+    },
+    "4": {
+      "item": "megastones:orb_without_mega_evolution"
+    },
+    "5": {
+      "item": "megastones:orb_without_mega_evolution"
+    },
+    "6": {
+      "item": "megastones:orb_without_mega_evolution"
+    },
+    "7": {
+      "item": "megastones:orb_without_mega_evolution"
+    },
+    "8": {
+      "item": "megastones:orb_without_mega_evolution"
+    }
+  },
+  "result": {
+    "item": "megastones:empty_orb",
+    "count": 1
+  }
+}

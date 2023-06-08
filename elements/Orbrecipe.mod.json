@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.TINTED_GLASS"
+      },
+      {
+        "value": "CUSTOM:CompressedBlockOfIron"
+      },
+      {
+        "value": "Blocks.TINTED_GLASS"
+      },
+      {
+        "value": "CUSTOM:CompressedBlockOfIron"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "CUSTOM:CompressedBlockOfIron"
+      },
+      {
+        "value": "Blocks.TINTED_GLASS"
+      },
+      {
+        "value": "CUSTOM:CompressedBlockOfIron"
+      },
+      {
+        "value": "Blocks.TINTED_GLASS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OrbWithoutMegaEvolution"
+    },
+    "name": "orbrecipe",
+    "namespace": "mod"
+  }
+}

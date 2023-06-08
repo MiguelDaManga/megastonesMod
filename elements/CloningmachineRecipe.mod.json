@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CloningMachine"
+      },
+      {
+        "value": "CUSTOM:CloningMachine"
+      },
+      {
+        "value": "CUSTOM:CloningMachine"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:CompressedBlockOfIron"
+      },
+      {
+        "value": "CUSTOM:CompressedBlockOfIron"
+      },
+      {
+        "value": "CUSTOM:CompressedBlockOfIron"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ReinforcedCloningGlass"
+    },
+    "name": "cloningmachine_recipe",
+    "namespace": "mod"
+  }
+}
